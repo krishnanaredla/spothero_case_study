@@ -23,4 +23,4 @@ docker run -p 8050:8050 spotherocasestudy:1.0
    
 # 
 
-![dash app](img/sample.PNG)
+![dash app](img/sample.png)
